@@ -1,12 +1,12 @@
 name = "Burnout Pack"
 author = "Yamayaki"
-version = "1.1.1"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "23bc8fc146b9ff930f832957415bb7cafdbec40525e8f6b458b517896ebdf500"
+hash = "8825a5a0fb2c1a5a5b6a751d5964238af93d258ddedfea396312d292446704d3"
 
 [versions]
 forge = "47.2.17"
