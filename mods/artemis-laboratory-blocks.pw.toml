@@ -1,0 +1,13 @@
+name = "Artemis' Laboratory Blocks"
+filename = "laboratoryblocks-1.20.1-0.3.2.3r-fusion.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa992066f1e60254996d7a1ff8938fc49780e277"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5007706
+project-id = 737135
