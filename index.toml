@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "6955bbc164e59a853ef74ff76250a5903ab675a3d928cdff51686c2dc5c7ce3a"
+
+[[files]]
+file = "defaultconfigs/ftbchunks/client-config.snbt"
+hash = "27a410f2203700ce8528e9c5518d5b944d17de17fbe96dbf05567b5b2a26f37e"
+
+[[files]]
+file = "defaultconfigs/ftbchunks/ftbchunks-world.snbt"
+hash = "cb9fcb6b7c72a876bc63e3e996cb8314463879f16349d2ee03ff93d020357fad"
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "1a1439495f55cd5dbda1d8db7eb339fd0e7f42ea5a76c1e8ebda8b18bcea64c6"
 metafile = true
@@ -153,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/cyclic.pw.toml"
 hash = "cc062e5753ecec58eb89a597b1b6cf2ce83a5d946045641cc0d937ac43d9bad0"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "1cb1ed842db59e479dc2b21cf8afb8eeb9ff4577d292e6b51ed8df98e24411d5"
 metafile = true
 
 [[files]]
