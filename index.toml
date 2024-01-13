@@ -85,6 +85,14 @@ file = "config/theoneprobe-common.toml"
 hash = "a889a1053a72f6b494d1b010416ed7cf6994be5341282cfe2e296c9335cb2b81"
 
 [[files]]
+file = "defaultconfigs/car-server.toml"
+hash = "309f95d25b29c072fa987fb0eaf7e6809b52c4c980ff7b746beb5eba80b87b67"
+
+[[files]]
+file = "defaultconfigs/car/fuel.toml"
+hash = "c08a663b1fe64f362aecba75055d1d6d44ab5221aadd3d9f396c5242bae494ce"
+
+[[files]]
 file = "defaultconfigs/ftbchunks/client-config.snbt"
 hash = "27a410f2203700ce8528e9c5518d5b944d17de17fbe96dbf05567b5b2a26f37e"
 

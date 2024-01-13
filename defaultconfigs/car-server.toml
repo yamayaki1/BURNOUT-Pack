@@ -1,0 +1,4 @@
+[machines]
+	[machines.gas_station]
+		valid_fuels = ["#car:gas_station", "#ad_astra:fuel"]
+
