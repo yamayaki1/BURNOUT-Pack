@@ -1,0 +1,4 @@
+[client]
+	alwaysSetupTerrainOffThread = true
+	experimentalForgeLightPipelineEnabled = true
+	calculateAllNormals = true

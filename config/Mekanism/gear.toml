@@ -1,0 +1,6 @@
+[gear]
+	[gear.atomic_disassembler]
+		maxDamage = 40
+
+	[gear.flamethrower]
+		destroyItems = false

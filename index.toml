@@ -1,8 +1,88 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Mekanism/additions.toml"
+hash = "bac00105b3b775b0b994a83bf3dd322deef0fc9872a777413a10c1f5a3b7ac2d"
+
+[[files]]
+file = "config/Mekanism/common.toml"
+hash = "9fbb9f65835013b9a0b64901fd61426f1e03a28822180083113efbcac5d83224"
+
+[[files]]
+file = "config/Mekanism/gear.toml"
+hash = "548e3f33310e92c228c760f093f7c88dfccde7e98a33c5598e3c98f14b2cd2f6"
+
+[[files]]
+file = "config/Mekanism/general.toml"
+hash = "f53c5c84bb67f01c1aff00c5884181edc51923211b1aadd3b682975260f971f2"
+
+[[files]]
+file = "config/ae2/common.json"
+hash = "e50f3d16270de22c90da68ca1fc47dd81f775258379939bb3dd0bd0e56f5dbad"
+
+[[files]]
+file = "config/aether-client.toml"
+hash = "e87944aef797bff80d94d1a23cad3f8a661899f0cdd17d9ac0b65b12003fa75c"
+
+[[files]]
+file = "config/aether-common.toml"
+hash = "89ef8c8297da5b20131dc2aa3c6e5b056207fc372433e64c2f31a398605ac122"
+
+[[files]]
+file = "config/appleskin-client.toml"
+hash = "f26916f5d679390d6ac41f086d65b233e0642b064269d72460ce824511df0b0e"
+
+[[files]]
+file = "config/cofh_core-client.toml"
+hash = "de40b053f2ac7af1f0b86359c15d563fd169cf2a4dfb7000cef2136ede4facd8"
+
+[[files]]
+file = "config/cucumber-client.toml"
+hash = "1e27fe5df69af6801ee32f65097bb852e9b28d25d47ad2d3a147f417c8f6d840"
+
+[[files]]
+file = "config/cumulus_menus-client.toml"
+hash = "bb61567159084edd83200c0526c76dc35737bb71e9ed0c3a95b799c75cc1ebb4"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "6955bbc164e59a853ef74ff76250a5903ab675a3d928cdff51686c2dc5c7ce3a"
+
+[[files]]
+file = "config/flib.toml"
+hash = "395b20dad86f643f3c8e7c8527ce14828d7f8cb30eb51dff6391198e8e40cea6"
+
+[[files]]
+file = "config/fml.toml"
+hash = "83d37215ef24139ae85cc40bff7d927eba35d987d100e46265616d7a82f2a3fb"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "36cdc4819339b87de26bbbfc0735e24ba7f1e6676a04f974990c8f44a8a04367"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "9d61ada6c80219982781eb03661dc8f0d8a13047c34ae246d444aa049987d2e2"
+
+[[files]]
+file = "config/oculus.properties"
+hash = "d82261cbaaecc17f96f8c94e7f3e0f08130f7a37112d0f0994fb08fe11abf5e3"
+
+[[files]]
+file = "config/oreexcavation-common.toml"
+hash = "110c1d6a193cefd441c07bf9311dc3655acd6d069cc6d8667eefabddc14416f3"
+
+[[files]]
+file = "config/sebastrnlib-client.toml"
+hash = "80a5de557de04726bc84b8cee8456540431faf943554cfd715e0f52126db6a70"
+
+[[files]]
+file = "config/sidebar_buttons.json"
+hash = "1022f377c7c7f12252b06de554d798e2c8cf42b806c609e29c5469fb7e80ec33"
+
+[[files]]
+file = "config/theoneprobe-common.toml"
+hash = "a889a1053a72f6b494d1b010416ed7cf6994be5341282cfe2e296c9335cb2b81"
 
 [[files]]
 file = "defaultconfigs/ftbchunks/client-config.snbt"
@@ -10,7 +90,7 @@ hash = "27a410f2203700ce8528e9c5518d5b944d17de17fbe96dbf05567b5b2a26f37e"
 
 [[files]]
 file = "defaultconfigs/ftbchunks/ftbchunks-world.snbt"
-hash = "cb9fcb6b7c72a876bc63e3e996cb8314463879f16349d2ee03ff93d020357fad"
+hash = "65efbefca6bd476da5927b5efeefc7bc0791727878d650927ff3b3709cc80c5f"
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"

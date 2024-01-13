@@ -1,0 +1,9 @@
+[general]
+	[general.radiation]
+		radiationEnabled = false
+
+	[general.laser]
+		aestheticWorldDamage = false
+
+	[general.pump]
+		pumpHeavyWaterAmount = 100
