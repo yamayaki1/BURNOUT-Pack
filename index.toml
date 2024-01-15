@@ -361,6 +361,11 @@ hash = "826c59a1e607641acb85f1e23a2bb7183a2f0a9ccd19ea4f01bbc9d94d480acf"
 metafile = true
 
 [[files]]
+file = "mods/mcef.pw.toml"
+hash = "697f71e69139e2861f1a4ae35b0e0050ba81c5cdfe4bf33bdbb49ab8ab3e66b9"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "edd5d4fc5b1a1cb153d0fa9c4b0c3c2a92366a9071402d9a9f58e84eebffec44"
 metafile = true
@@ -623,6 +628,11 @@ metafile = true
 [[files]]
 file = "mods/ultimate-car-mod.pw.toml"
 hash = "b115badbb8f193ab65e6bf4ed2469698a0afcedf2a05cd95d0a3bf982caeb269"
+metafile = true
+
+[[files]]
+file = "mods/webdisplays.pw.toml"
+hash = "157409c7c77537e2a6d852a845340a210e06fbaeb9d913f595c2c2c201b0c297"
 metafile = true
 
 [[files]]
