@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "27cfc4c91d1833258b049b2752b81e1ae8bc67b4126ebc2e26f33e93846d2552"
+hash = "01e95d3aaf3b28fe81b1a92eeb71f078fc85085e6dec4f20e9924284f25ff0c7"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/botany-pots.pw.toml"
-hash = "3cd8ec3e0edeaf54b32c9a39ab0ab85d03a5ff8f17560dce78f0d11080ecafce"
+hash = "f4d92472d9f9a82347fdaec3ef00259ddae0dc9cd546f6b16445a37c36e6dfae"
 metafile = true
 
 [[files]]
@@ -208,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "ef5de957c934c3b1d24306fc59f6c36f6b0b1078d166855b1d499949acd3ea1c"
+metafile = true
+
+[[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "9f7f2f35ccbca3e16fa3941199d89d6340fae1d15b9bedc9e53037c617e41db4"
 metafile = true
 
 [[files]]
