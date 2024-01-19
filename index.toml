@@ -21,14 +21,6 @@ file = "config/ae2/common.json"
 hash = "e50f3d16270de22c90da68ca1fc47dd81f775258379939bb3dd0bd0e56f5dbad"
 
 [[files]]
-file = "config/aether-client.toml"
-hash = "e87944aef797bff80d94d1a23cad3f8a661899f0cdd17d9ac0b65b12003fa75c"
-
-[[files]]
-file = "config/aether-common.toml"
-hash = "89ef8c8297da5b20131dc2aa3c6e5b056207fc372433e64c2f31a398605ac122"
-
-[[files]]
 file = "config/appleskin-client.toml"
 hash = "f26916f5d679390d6ac41f086d65b233e0642b064269d72460ce824511df0b0e"
 
@@ -318,6 +310,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "d8d10f6e3901ced172a93d116e775036ecfb501e6933345897d6d8fd00b1ad3c"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "05bcbe38ef0173b20bd4b54c860ecd03a03e478ee49d233f3cfac97ef2b0d0b2"
 metafile = true
 
 [[files]]
