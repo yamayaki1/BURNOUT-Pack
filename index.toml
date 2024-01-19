@@ -73,6 +73,10 @@ file = "config/sidebar_buttons.json"
 hash = "1022f377c7c7f12252b06de554d798e2c8cf42b806c609e29c5469fb7e80ec33"
 
 [[files]]
+file = "config/spark/config.json"
+hash = "db41d627f58e410809f88efa1d55db0b8f970fe0da8d4ca50cd1098259da1a45"
+
+[[files]]
 file = "config/theoneprobe-common.toml"
 hash = "a889a1053a72f6b494d1b010416ed7cf6994be5341282cfe2e296c9335cb2b81"
 
