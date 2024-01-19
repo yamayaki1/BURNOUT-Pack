@@ -656,21 +656,6 @@ hash = "456748e1b1bdc9f4c411cf332a3e28e9ea57496b009af4aaec85a9615cfd4df6"
 metafile = true
 
 [[files]]
-file = "mods/yungs-api.pw.toml"
-hash = "04766bb05ab45a66403718eb819a6e61cfe2a35ffe82546e46890cf0a6f9fe52"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-end-island.pw.toml"
-hash = "b8032ce799f72c3fbc8d89611fc6d25f67f31273c1f43ca193350547f07ec4e7"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "378752ead54fa58f11f2e231070bfa76d8a310cc3651d231cd861dc8a3303ff6"
-metafile = true
-
-[[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "345a368be43732e614d93ffb06fa8c76fa8f6060f2d105455242d15acc97e80d"
 metafile = true
