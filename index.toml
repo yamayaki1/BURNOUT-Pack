@@ -126,11 +126,6 @@ hash = "d95d736d272530576a042e3ee4d11c5ecfe9f03d509219f0babe867ed14597b1"
 metafile = true
 
 [[files]]
-file = "mods/aether.pw.toml"
-hash = "01e95d3aaf3b28fe81b1a92eeb71f078fc85085e6dec4f20e9924284f25ff0c7"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
