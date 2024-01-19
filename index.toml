@@ -33,10 +33,6 @@ file = "config/cucumber-client.toml"
 hash = "1e27fe5df69af6801ee32f65097bb852e9b28d25d47ad2d3a147f417c8f6d840"
 
 [[files]]
-file = "config/cumulus_menus-client.toml"
-hash = "bb61567159084edd83200c0526c76dc35737bb71e9ed0c3a95b799c75cc1ebb4"
-
-[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "6955bbc164e59a853ef74ff76250a5903ab675a3d928cdff51686c2dc5c7ce3a"
 
@@ -51,6 +47,10 @@ hash = "83d37215ef24139ae85cc40bff7d927eba35d987d100e46265616d7a82f2a3fb"
 [[files]]
 file = "config/forge-client.toml"
 hash = "36cdc4819339b87de26bbbfc0735e24ba7f1e6676a04f974990c8f44a8a04367"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "77ab9b1d4e1393386043374f82ba74369529e5b5d319eccf75adbed16f013edc"
 
 [[files]]
 file = "config/jei/jei-client.ini"
