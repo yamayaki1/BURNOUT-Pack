@@ -1,0 +1,4 @@
+[builder]
+	quarryBaseSpeed = 32
+	maxBuilderOffset = 1000000
+	maxBuilderDimension = 512
