@@ -93,6 +93,10 @@ file = "defaultconfigs/ftbchunks/ftbchunks-world.snbt"
 hash = "65efbefca6bd476da5927b5efeefc7bc0791727878d650927ff3b3709cc80c5f"
 
 [[files]]
+file = "defaultconfigs/rftoolsbuilder-server.toml"
+hash = "3fb662126bdf08880243ea515d7e21c14058515e57aed7eeed04fea9a2e73bf2"
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "1a1439495f55cd5dbda1d8db7eb339fd0e7f42ea5a76c1e8ebda8b18bcea64c6"
 metafile = true
