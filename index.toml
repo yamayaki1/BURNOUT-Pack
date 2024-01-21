@@ -366,6 +366,10 @@ hash = "826c59a1e607641acb85f1e23a2bb7183a2f0a9ccd19ea4f01bbc9d94d480acf"
 metafile = true
 
 [[files]]
+file = "mods/leakusdeletus-1.0.0.jar"
+hash = "4ddcc9e2b1d4aeea6deb7ace5c166f4448494605233fd24c055c473f80114056"
+
+[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "2f496bb621dfb96749e2871ebc28edce95d96d7446775d4acba8fa46e2b353e2"
 metafile = true
