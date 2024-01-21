@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/leakusdeletus-1.0.0.jar"
-hash = "4ddcc9e2b1d4aeea6deb7ace5c166f4448494605233fd24c055c473f80114056"
+hash = "ab40acfa29520880cd61abde61f32415e76c95f83dac062a604ae58d892fa37a"
 
 [[files]]
 file = "mods/macaws-doors.pw.toml"
