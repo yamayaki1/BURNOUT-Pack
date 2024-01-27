@@ -102,7 +102,7 @@ hash = "3fb662126bdf08880243ea515d7e21c14058515e57aed7eeed04fea9a2e73bf2"
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "e4f273ff0bf36cc9fd96b72758373ccac0aa219f2f09aa7ce20600caf0bf2f2b"
+hash = "5be246f8ec1b3ff755047b79babfd9ffac075d3491c2c84f2fa28e5372e408b8"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "582df14a33015fe8060af8d1d759d10cfa0dbfa93927f007b611032ba574c950"
+hash = "e297fdb7786974314dffa4d0ed28736d1746543f6ba48377b630d282fa797caf"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "50056479cbf8921db75cc5490dd52f8420fd4492dfe2e31ce90460b29e21057e"
+hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "ba8611194b53a37c87f3531718f338b7f5275a84dc7d35730e660c9e7d5e680e"
+hash = "0d2a80abab32de6a2094520dacb0fbca2d1a66f6c7f3c6f441c07320e2572856"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-foregoing.pw.toml"
-hash = "15b7678d5b57667dd47adc121bb26aa09a429ddbc9dbe69dab2c094d98095545"
+hash = "79df12ece8e81b7fa5b21ad7251a8d5d63754765d6c9e09ba3eba7f9150970a8"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-jetpacks.pw.toml"
-hash = "169319f2957f70c134c12a6dc88d6997c2d1c2d919629daed6b23f14f34dfe8d"
+hash = "b91ac19fe7d6e49db1cbcd01e5f541e124251899f0201b26087e65887cdb300a"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "b8ccdb6c421792758f82d52605253fec9e3255ef4e19aa88c06bdaba95b84f32"
+hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
 metafile = true
 
 [[files]]
@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-builder.pw.toml"
-hash = "1b5b057d22b59583e098aa260ccc6938f1ba6a4cd96b85eb130fd424e8643aa2"
+hash = "f05a4e2f85cb7232f714e66ac6b8d227bf1d82b6b5f6cc8478ea13695e9e30be"
 metafile = true
 
 [[files]]
@@ -556,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "d6eb84bc0a9c2b69683253b26ab8caaf559f34427e6ecfc48e53fe2042d03e5e"
+hash = "1fddefa08fb21e2262210de0c36c7f9b19138c25c03dc282f511290a9ba9ce59"
 metafile = true
 
 [[files]]
@@ -591,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "7bed0d31dce18cd5aebc3bfc40531275f1ea622c763dd9438aa063a4fbed993a"
+hash = "b2acf88138a2cde631082f71bb3d99668bc4a1de7f886909f1614cb0b25ec0aa"
 metafile = true
 
 [[files]]
