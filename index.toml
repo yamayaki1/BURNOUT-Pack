@@ -25,6 +25,10 @@ file = "config/appleskin-client.toml"
 hash = "f26916f5d679390d6ac41f086d65b233e0642b064269d72460ce824511df0b0e"
 
 [[files]]
+file = "config/biggerreactors-server.toml"
+hash = "d6a3a547811d5da7346e8083c2657af8f45a20eb548f612400c7ccf129ebac76"
+
+[[files]]
 file = "config/cofh_core-client.toml"
 hash = "de40b053f2ac7af1f0b86359c15d563fd169cf2a4dfb7000cef2136ede4facd8"
 

@@ -1,0 +1,6 @@
+[Reactor]
+    FuelUsageMultiplier = 0.12
+    OutputMultiplier = 3
+
+[CyaniteReprocessor]
+    TotalWorkTime = 30
