@@ -316,11 +316,6 @@ hash = "8c2b539bae8ae10e601470f25b035df340e9ed64fbd19c4d583a0737f176a747"
 metafile = true
 
 [[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "d8d10f6e3901ced172a93d116e775036ecfb501e6933345897d6d8fd00b1ad3c"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "05bcbe38ef0173b20bd4b54c860ecd03a03e478ee49d233f3cfac97ef2b0d0b2"
 metafile = true
@@ -507,11 +502,6 @@ metafile = true
 [[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "1e4d5c14c4d87c48cae80fd6ce003ad1db70037ea810830504cf0c939ced05b4"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled.pw.toml"
-hash = "a8195e39831da3b5532265589c9e9b5011208bdfa1a8c0e298910463505c3bfa"
 metafile = true
 
 [[files]]
