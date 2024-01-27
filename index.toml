@@ -375,6 +375,11 @@ hash = "2f496bb621dfb96749e2871ebc28edce95d96d7446775d4acba8fa46e2b353e2"
 metafile = true
 
 [[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "17042dd194ce5fca77a48561a9362f62b6faa0c1d25b00953cf3041405906f8f"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "edd5d4fc5b1a1cb153d0fa9c4b0c3c2a92366a9071402d9a9f58e84eebffec44"
 metafile = true
