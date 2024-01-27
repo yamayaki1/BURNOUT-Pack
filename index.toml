@@ -615,6 +615,11 @@ hash = "2b8e3d083751854f7272644630538fd57141f361dd501355d1efdd71c4b7882d"
 metafile = true
 
 [[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "a17fe396984fb3cab0859c8edf5226f5b24ff9e63929cdba057d088152978942"
+metafile = true
+
+[[files]]
 file = "mods/thermal-expansion.pw.toml"
 hash = "124b2e8a98bf33885b2df0526c8762cd5d3fcc10232dcc8fea3708690930c7ee"
 metafile = true
