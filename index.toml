@@ -175,6 +175,11 @@ hash = "9c2e49283d2f251717b890fdbf9b5f3e92ff64bec53dd00e099f969003833b16"
 metafile = true
 
 [[files]]
+file = "mods/beautify-decorate.pw.toml"
+hash = "18e6f7ed5bd54b7daf15e5ece630d5a52ee3aabc79482297bbfbaacfc3048d47"
+metafile = true
+
+[[files]]
 file = "mods/biggerreactors.pw.toml"
 hash = "4e6da4cf2017bca4146c97269e1a0c80eb377e9250b2629bcbc86476bc87fc55"
 metafile = true
@@ -322,6 +327,16 @@ metafile = true
 [[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "8c2b539bae8ae10e601470f25b035df340e9ed64fbd19c4d583a0737f176a747"
+metafile = true
+
+[[files]]
+file = "mods/furniture-expanded.pw.toml"
+hash = "0111cb4c63813849d96386f01170fa51b2886389b6df23bce37db33e2ced0d12"
+metafile = true
+
+[[files]]
+file = "mods/fusion.pw.toml"
+hash = "b7a30e53e85668e1947ddf22002d8db75d2c55f852432c97b972c69f4a51b269"
 metafile = true
 
 [[files]]
@@ -561,6 +576,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "1fddefa08fb21e2262210de0c36c7f9b19138c25c03dc282f511290a9ba9ce59"
+metafile = true
+
+[[files]]
+file = "mods/simplecore-api.pw.toml"
+hash = "0a54c2837eec1b98c22da607a0f1484c4ae0560a0aa0dacaeaeda1b010d67df5"
 metafile = true
 
 [[files]]

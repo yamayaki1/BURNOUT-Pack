@@ -1,0 +1,13 @@
+name = "Furniture Expanded [FORGE/FABRIC]"
+filename = "furnitureexpanded-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99abb157a939dd74c426712988386a9b96d860fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4759946
+project-id = 550478
