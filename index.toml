@@ -524,6 +524,11 @@ hash = "51fc20fa50c0504b89f1c34b720a7888be788d51aa645bfc7f40e6c723b605e0"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "50579877561744484c4174f4ec196863cbba113e75f1b88023972d45dfa8fa8d"
+metafile = true
+
+[[files]]
 file = "mods/quartz.pw.toml"
 hash = "7d9394525943d9c5bc49ea31f8368b10b59cbb6c72ae06f9569110a7d75f0544"
 metafile = true
