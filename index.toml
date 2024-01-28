@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "ef5de957c934c3b1d24306fc59f6c36f6b0b1078d166855b1d499949acd3ea1c"
+hash = "3e09d4979cba7d00797aa3a855b2b7c0d4bd7353695f4e47d2c8099fbd2bb82b"
 metafile = true
 
 [[files]]
@@ -665,12 +665,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0c05da9019ad9d106253954dad1d1c7b969c0d2192f712ec039064515f1481ec"
+hash = "3e5deb38abf19119c4d067aeb0785ef9839d978629bde2ef9ddddd26b15cf8bc"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "456748e1b1bdc9f4c411cf332a3e28e9ea57496b009af4aaec85a9615cfd4df6"
+hash = "2e8f964883691263f8b3044281474c90f1b0224f94dff8ecc266f49bf457514a"
 metafile = true
 
 [[files]]
