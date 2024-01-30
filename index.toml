@@ -335,8 +335,8 @@ hash = "0111cb4c63813849d96386f01170fa51b2886389b6df23bce37db33e2ced0d12"
 metafile = true
 
 [[files]]
-file = "mods/fusion.pw.toml"
-hash = "b7a30e53e85668e1947ddf22002d8db75d2c55f852432c97b972c69f4a51b269"
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "d8d10f6e3901ced172a93d116e775036ecfb501e6933345897d6d8fd00b1ad3c"
 metafile = true
 
 [[files]]
@@ -581,11 +581,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "1fddefa08fb21e2262210de0c36c7f9b19138c25c03dc282f511290a9ba9ce59"
-metafile = true
-
-[[files]]
-file = "mods/simplecore-api.pw.toml"
-hash = "0a54c2837eec1b98c22da607a0f1484c4ae0560a0aa0dacaeaeda1b010d67df5"
 metafile = true
 
 [[files]]
